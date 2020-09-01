@@ -2,4 +2,4 @@
 
 ## 1D Heat Equation
 
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="40" height="70">
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="150" height="150">
