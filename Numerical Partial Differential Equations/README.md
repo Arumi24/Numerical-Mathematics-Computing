@@ -2,4 +2,4 @@
 
 ## 1D Heat Equation
 
-![](1D.gif)
+![](1DHeat.gif)
