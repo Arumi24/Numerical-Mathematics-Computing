@@ -8,3 +8,10 @@
 
 
 ### 2D Gradient Descent
+
+
+## Newton's Method
+
+
+
+### 2D Newton's Method
