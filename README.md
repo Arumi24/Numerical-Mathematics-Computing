@@ -1,1 +1,1 @@
-# Numerical-Mathematics-Computing
+# Numerical Mathematics & Computing
