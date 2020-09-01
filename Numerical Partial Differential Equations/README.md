@@ -2,4 +2,4 @@
 
 ## 1D Heat Equation
 
-![](1DHeat.gif)
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="40" height="70">
